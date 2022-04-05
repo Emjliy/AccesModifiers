@@ -1,0 +1,14 @@
+C:\Users\Emilia\source\repos\Acces_Modifiers_Namespace\Acces_Modifiers_Namespace\bin\Debug\netcoreapp3.1\Acces_Modifiers_Namespace.exe
+C:\Users\Emilia\source\repos\Acces_Modifiers_Namespace\Acces_Modifiers_Namespace\bin\Debug\netcoreapp3.1\Acces_Modifiers_Namespace.deps.json
+C:\Users\Emilia\source\repos\Acces_Modifiers_Namespace\Acces_Modifiers_Namespace\bin\Debug\netcoreapp3.1\Acces_Modifiers_Namespace.runtimeconfig.json
+C:\Users\Emilia\source\repos\Acces_Modifiers_Namespace\Acces_Modifiers_Namespace\bin\Debug\netcoreapp3.1\Acces_Modifiers_Namespace.runtimeconfig.dev.json
+C:\Users\Emilia\source\repos\Acces_Modifiers_Namespace\Acces_Modifiers_Namespace\bin\Debug\netcoreapp3.1\Acces_Modifiers_Namespace.dll
+C:\Users\Emilia\source\repos\Acces_Modifiers_Namespace\Acces_Modifiers_Namespace\bin\Debug\netcoreapp3.1\Acces_Modifiers_Namespace.pdb
+C:\Users\Emilia\source\repos\Acces_Modifiers_Namespace\Acces_Modifiers_Namespace\obj\Debug\netcoreapp3.1\Acces_Modifiers_Namespace.csproj.AssemblyReference.cache
+C:\Users\Emilia\source\repos\Acces_Modifiers_Namespace\Acces_Modifiers_Namespace\obj\Debug\netcoreapp3.1\Acces_Modifiers_Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilia\source\repos\Acces_Modifiers_Namespace\Acces_Modifiers_Namespace\obj\Debug\netcoreapp3.1\Acces_Modifiers_Namespace.AssemblyInfoInputs.cache
+C:\Users\Emilia\source\repos\Acces_Modifiers_Namespace\Acces_Modifiers_Namespace\obj\Debug\netcoreapp3.1\Acces_Modifiers_Namespace.AssemblyInfo.cs
+C:\Users\Emilia\source\repos\Acces_Modifiers_Namespace\Acces_Modifiers_Namespace\obj\Debug\netcoreapp3.1\Acces_Modifiers_Namespace.csproj.CoreCompileInputs.cache
+C:\Users\Emilia\source\repos\Acces_Modifiers_Namespace\Acces_Modifiers_Namespace\obj\Debug\netcoreapp3.1\Acces_Modifiers_Namespace.dll
+C:\Users\Emilia\source\repos\Acces_Modifiers_Namespace\Acces_Modifiers_Namespace\obj\Debug\netcoreapp3.1\Acces_Modifiers_Namespace.pdb
+C:\Users\Emilia\source\repos\Acces_Modifiers_Namespace\Acces_Modifiers_Namespace\obj\Debug\netcoreapp3.1\Acces_Modifiers_Namespace.genruntimeconfig.cache
